@@ -49,10 +49,10 @@ vim /opt/texting/texting.py
 ```
 
 Update following variables:
-* PHONE_NUMBERS - mobile number(s) to send SMS (sould be configured in twilio as well)
-* FROM          - twilio phone number
-* SID           - account SID
-* TOKEN         - twilio API token
+* **PHONE_NUMBERS** - mobile number(s) to send SMS (sould be configured in twilio as well)
+* **FROM** - twilio phone number
+* **SID** - account SID
+* **TOKEN** - twilio API token
 
 ### Testing
 
@@ -73,4 +73,4 @@ The folder 'cert' contains twilio sertificate extracted from [official twilio wh
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
